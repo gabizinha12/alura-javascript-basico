@@ -1,1 +1,1 @@
-# alura-javascript-b-sico
+# alura-javascript-basico
