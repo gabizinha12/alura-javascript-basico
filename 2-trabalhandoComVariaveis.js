@@ -10,3 +10,6 @@ console.log("Trabalhando com variáveis");
 const idade = 21;
 const nome = "Gabi";
 const ano = 2022;
+
+// não fazer
+// mes = "Janeiro"
